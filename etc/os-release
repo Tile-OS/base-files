@@ -1,0 +1,11 @@
+PRETTY_NAME="TileOS 1.0 (t-rex)"
+NAME="TileOS"
+VERSION_ID="1.0"
+VERSION="1.0 (t-rex)"
+VERSION_CODENAME=t-rex
+ID=tileos
+ID_LIKE=debian
+VERSION_CODENAME=t-rex
+DEBIAN_CODENAME=bookworm
+SUPPORT_URL="https://github.com/Tile-OS/TileOS"
+BUG_REPORT_URL="https://github.com/Tile-OS/TileOS/issues"
